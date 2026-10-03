@@ -49,6 +49,8 @@ A desktop virtual-camera app. voicecam analyzes microphone input, selects images
 
 ## Installation
 
+**Start exe file OR:**
+
 Python 3.10 or newer is required.
 
 1. Clone the repository or download and extract its ZIP archive.
